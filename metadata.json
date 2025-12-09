@@ -1,0 +1,5 @@
+{
+  "name": "Wanderlust AI Planner",
+  "description": "An intelligent travel itinerary generator that creates personalized daily plans based on your destination, dates, and group size.",
+  "requestFramePermissions": []
+}
